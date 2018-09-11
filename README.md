@@ -1,4 +1,4 @@
-# Useful Resource
+# Useful Resources
 
 ### Download
 ##### MySQL
