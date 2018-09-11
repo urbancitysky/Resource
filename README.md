@@ -1,6 +1,4 @@
-# Useful Resources
-
-### Download
+# Download
 ##### MySQL
 + [MySQL Query Browser](https://downloads.mysql.com/archives/query/)
 + [Workbench](https://dev.mysql.com/downloads/workbench/)
